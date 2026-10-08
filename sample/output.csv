@@ -1,0 +1,187 @@
+no,tag,attribute,url,resolved_url,text,kind,skipped,line
+1,link,href,https://www.techabout.com/,https://www.techabout.com/,,external,False,15
+2,link,href,https://fonts.googleapis.com,https://fonts.googleapis.com,,external,False,59
+3,link,href,https://fonts.gstatic.com,https://fonts.gstatic.com,,external,False,60
+4,link,href,https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap,https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap,,external,False,61
+5,link,href,/assets/techabout_web/css/tailwind.css?v=1785497997,https://techabout.com/assets/techabout_web/css/tailwind.css?v=1785497997,,internal,False,62
+6,link,href,/assets/techabout_web/img/brand/favicon.ico?v=1783674648,https://techabout.com/assets/techabout_web/img/brand/favicon.ico?v=1783674648,,internal,False,63
+7,link,href,/assets/techabout_web/img/brand/favicon-16x16.png?v=1783674645,https://techabout.com/assets/techabout_web/img/brand/favicon-16x16.png?v=1783674645,,internal,False,64
+8,link,href,/assets/techabout_web/img/brand/favicon-32x32.png?v=1783674646,https://techabout.com/assets/techabout_web/img/brand/favicon-32x32.png?v=1783674646,,internal,False,65
+9,link,href,/assets/techabout_web/img/brand/apple-touch-icon.png?v=1783674649,https://techabout.com/assets/techabout_web/img/brand/apple-touch-icon.png?v=1783674649,,internal,False,66
+10,link,href,/assets/techabout_web/site.webmanifest?v=1783674677,https://techabout.com/assets/techabout_web/site.webmanifest?v=1783674677,,internal,False,67
+11,script,src,,,,empty,True,70
+12,script,src,,,,empty,True,78
+13,script,src,,,,empty,True,79
+14,script,src,/assets/techabout_web/js/header-account.js?v=1789628725,https://techabout.com/assets/techabout_web/js/header-account.js?v=1789628725,,internal,False,80
+15,script,src,,,,empty,True,81
+16,script,src,,,,empty,True,90
+17,a,href,#main-content,#main-content,Skip to main content,fragment,True,136
+18,a,href,/,https://techabout.com/,,internal,False,211
+19,source,src,,,,empty,True,213
+20,img,src,/assets/techabout_web/img/brand/techabout-logo-header.png?v=1783471638,https://techabout.com/assets/techabout_web/img/brand/techabout-logo-header.png?v=1783471638,,internal,False,214
+21,a,href,/services,https://techabout.com/services,Services,internal,False,231
+22,a,href,/services/ai-ml-solutions,https://techabout.com/services/ai-ml-solutions,"AI & Machine Learning Most “AI strategy” ends in a slide deck. We ship models that run in production — and own the messy parts: your data, your edge cases, your 2am uptime.",internal,False,241
+23,a,href,/services/enterprise-software,https://techabout.com/services/enterprise-software,"Enterprise Software Development Enterprise software without the enterprise runaround. The custom systems your business runs on — shipped, documented, and supported long after launch.",internal,False,249
+24,a,href,/services/cloud-infrastructure,https://techabout.com/services/cloud-infrastructure,Cloud Infrastructure & DevOps Cloud bills that make sense. Deploys that don't need a prayer. We build infrastructure your team can actually operate — then hand it over with the runbook.,internal,False,257
+25,a,href,/services/application-development,https://techabout.com/services/application-development,"Web & Mobile App Development Product teams move faster than agencies. We work like a product team you rent — web and mobile apps shipped in weeks, iterated on real usage, not a 200-page spec.",internal,False,265
+26,a,href,/services/data-analytics,https://techabout.com/services/data-analytics,Data Engineering & Analytics Dashboards are the easy part. We build the pipelines underneath them — so the number your CEO sees is the same one your database actually holds.,internal,False,273
+27,a,href,/services/cybersecurity,https://techabout.com/services/cybersecurity,"Cybersecurity & Compliance Security that assumes you'll be attacked — because you will. Testing, hardening and compliance from a team that breaks things on purpose, before someone else does.",internal,False,281
+28,a,href,/services/express/any-platform-website-migration,https://techabout.com/services/express/any-platform-website-migration,Any Platform to Any Platform Website Migration,internal,False,300
+29,a,href,/services/express/complete-store-setup,https://techabout.com/services/express/complete-store-setup,Complete E-commerce Store Setup,internal,False,305
+30,a,href,/services/express/content-creation-and-management,https://techabout.com/services/express/content-creation-and-management,Content Writing & Blog Management,internal,False,310
+31,a,href,/services/express/wordpress-to-nextjs-migration,https://techabout.com/services/express/wordpress-to-nextjs-migration,Convert Your WordPress Site to Next.js,internal,False,315
+32,a,href,/services/express/mobile-app-development,https://techabout.com/services/express/mobile-app-development,Cross-Platform Mobile App Development,internal,False,320
+33,a,href,/services/express/custom-web-application,https://techabout.com/services/express/custom-web-application,Custom Web Application Development,internal,False,325
+34,a,href,/services,https://techabout.com/services,View all services,internal,False,333
+35,a,href,/portfolio,https://techabout.com/portfolio,Work,internal,False,342
+36,a,href,/portfolio,https://techabout.com/portfolio,Portfolio,internal,False,348
+37,a,href,/case-studies,https://techabout.com/case-studies,Case Studies,internal,False,350
+38,a,href,/our-assets,https://techabout.com/our-assets,Our Assets,internal,False,352
+39,a,href,/our-assets,https://techabout.com/our-assets,Ventures,internal,False,360
+40,a,href,/our-assets,https://techabout.com/our-assets,Products & Assets,internal,False,366
+41,a,href,/central,https://techabout.com/central,TechAbout Central,internal,False,368
+42,a,href,/future-leaders,https://techabout.com/future-leaders,Future Leaders,internal,False,370
+43,a,href,/build-together,https://techabout.com/build-together,Build Together,internal,False,372
+44,a,href,https://techabout.org/,https://techabout.org/,TechAbout Foundation (opens in a new tab),external,False,374
+45,img,src,/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426,https://techabout.com/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426,,internal,False,375
+46,a,href,/about-us,https://techabout.com/about-us,Company,internal,False,386
+47,a,href,/about-us,https://techabout.com/about-us,About TechAbout,internal,False,392
+48,a,href,/about-us/leadership,https://techabout.com/about-us/leadership,Leadership,internal,False,394
+49,a,href,/careers,https://techabout.com/careers,Careers,internal,False,396
+50,a,href,/contact-us,https://techabout.com/contact-us,Contact,internal,False,398
+51,a,href,/news,https://techabout.com/news,Insights,internal,False,403
+52,a,href,/cart,https://techabout.com/cart,0,internal,False,465
+53,a,href,/account,https://techabout.com/account,Account,internal,False,470
+54,img,src,,,,empty,True,476
+55,a,href,/request-a-quote,https://techabout.com/request-a-quote,Talk to an Expert,internal,False,492
+56,a,href,/services,https://techabout.com/services,Services,internal,False,507
+57,a,href,/services/express,https://techabout.com/services/express,Express Services,internal,False,509
+58,a,href,/portfolio,https://techabout.com/portfolio,Portfolio,internal,False,511
+59,a,href,/our-assets,https://techabout.com/our-assets,Our Assets,internal,False,513
+60,a,href,/news,https://techabout.com/news,News,internal,False,515
+61,a,href,/build-together,https://techabout.com/build-together,Build Together,internal,False,517
+62,a,href,/central,https://techabout.com/central,Central,internal,False,519
+63,a,href,/future-leaders,https://techabout.com/future-leaders,Future Leaders,internal,False,521
+64,a,href,https://techabout.org/,https://techabout.org/,TechAbout Foundation (opens in a new tab),external,False,523
+65,img,src,/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426,https://techabout.com/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426,,internal,False,524
+66,a,href,/contact-us,https://techabout.com/contact-us,Contact Us,internal,False,529
+67,a,href,/account,https://techabout.com/account,Account,internal,False,530
+68,a,href,/request-a-quote,https://techabout.com/request-a-quote,Get a Quote,internal,False,568
+69,a,href,/request-a-quote,https://techabout.com/request-a-quote,Plan a project,internal,False,629
+70,a,href,/portfolio,https://techabout.com/portfolio,Review public work,internal,False,633
+71,img,src,/assets/techabout_web/img/news/techabout-building-video-cover.jpg,https://techabout.com/assets/techabout_web/img/news/techabout-building-video-cover.jpg,,internal,False,662
+72,a,href,/central,https://techabout.com/central,"Review TechAbout Central as a possibility, with its approval gates.",internal,False,672
+73,a,href,/assets/techabout_web/img/certs/cert-pseb.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-pseb.jpg,PSEB document,internal,False,690
+74,a,href,/assets/techabout_web/img/certs/cert-secp.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-secp.jpg,SECP document,internal,False,695
+75,a,href,/assets/techabout_web/img/certs/cert-pasha.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-pasha.jpg,P@SHA document,internal,False,700
+76,a,href,/assets/techabout_web/img/certs/cert-fbr.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-fbr.jpg,FBR document,internal,False,705
+77,a,href,/assets/techabout_web/img/certs/cert-lcci.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-lcci.jpg,LCCI document,internal,False,710
+78,a,href,/press,https://techabout.com/press,Press & recognition 4 Presidential awards · 44 verified sources,internal,False,718
+79,a,href,/portfolio,https://techabout.com/portfolio,View the complete portfolio →,internal,False,741
+80,img,src,https://www.google.com/s2/favicons?domain=travel.pk&sz=128,https://www.google.com/s2/favicons?domain=travel.pk&sz=128,,external,False,750
+81,a,href,/portfolio/travel-pk,https://techabout.com/portfolio/travel-pk,View record,internal,False,759
+82,a,href,https://travel.pk,https://travel.pk,Website,external,False,761
+83,img,src,/assets/techabout_web/img/blogreach/techi-logo.png,https://techabout.com/assets/techabout_web/img/blogreach/techi-logo.png,,internal,False,769
+84,a,href,/portfolio/techi.com,https://techabout.com/portfolio/techi.com,View record,internal,False,778
+85,a,href,https://www.techi.com,https://www.techi.com,Website,external,False,780
+86,img,src,/assets/techabout_web/img/blogreach/wparena-mark-current.png,https://techabout.com/assets/techabout_web/img/blogreach/wparena-mark-current.png,,internal,False,788
+87,a,href,/portfolio/wparena.com,https://techabout.com/portfolio/wparena.com,View record,internal,False,797
+88,a,href,https://wparena.com,https://wparena.com,Website,external,False,799
+89,img,src,/assets/techabout_web/img/blogreach/techengage-logo.webp,https://techabout.com/assets/techabout_web/img/blogreach/techengage-logo.webp,,internal,False,807
+90,a,href,/portfolio/techengage.com,https://techabout.com/portfolio/techengage.com,View record,internal,False,816
+91,a,href,https://techengage.com,https://techengage.com,Website,external,False,818
+92,img,src,/assets/techabout_web/img/products/healtharena-favicon.png,https://techabout.com/assets/techabout_web/img/products/healtharena-favicon.png,,internal,False,826
+93,a,href,/portfolio/healtharena.com,https://techabout.com/portfolio/healtharena.com,View record,internal,False,835
+94,a,href,https://healtharena.com,https://healtharena.com,Website,external,False,837
+95,img,src,/assets/techabout_web/img/blogreach/default-glob.png,https://techabout.com/assets/techabout_web/img/blogreach/default-glob.png,,internal,False,845
+96,a,href,/portfolio/accountstop.com,https://techabout.com/portfolio/accountstop.com,View record,internal,False,854
+97,a,href,https://accountstop.com,https://accountstop.com,Website,external,False,856
+98,img,src,/assets/techabout_web/img/products/aitransform-favicon.png,https://techabout.com/assets/techabout_web/img/products/aitransform-favicon.png,,internal,False,864
+99,a,href,/portfolio/aitransform.com,https://techabout.com/portfolio/aitransform.com,View record,internal,False,873
+100,a,href,https://aitransform.com,https://aitransform.com,Website,external,False,875
+101,img,src,/assets/techabout_web/img/blogreach/default-glob.png,https://techabout.com/assets/techabout_web/img/blogreach/default-glob.png,,internal,False,883
+102,a,href,/portfolio/pkhosting.com,https://techabout.com/portfolio/pkhosting.com,View record,internal,False,892
+103,a,href,https://www.pkhosting.com,https://www.pkhosting.com,Website,external,False,894
+104,a,href,/services/ai-ml-solutions,https://techabout.com/services/ai-ml-solutions,Explore possibilities →,internal,False,919
+105,a,href,/services/enterprise-software,https://techabout.com/services/enterprise-software,Explore possibilities →,internal,False,928
+106,a,href,/services/cloud-infrastructure,https://techabout.com/services/cloud-infrastructure,Explore possibilities →,internal,False,937
+107,a,href,/services/application-development,https://techabout.com/services/application-development,Explore possibilities →,internal,False,946
+108,a,href,/services/data-analytics,https://techabout.com/services/data-analytics,Explore possibilities →,internal,False,955
+109,a,href,/services/cybersecurity,https://techabout.com/services/cybersecurity,Explore possibilities →,internal,False,964
+110,a,href,/our-assets,https://techabout.com/our-assets,"CURRENT RECORDS Assets & verification Our domain portfolio, trademarks and company registration documents — open to verify. Open →",internal,False,981
+111,a,href,/build-together,https://techabout.com/build-together,"POSSIBILITY Build Together Explore a collaboration without public ROI, fee, or outcome promises. Open →",internal,False,988
+112,a,href,/central,https://techabout.com/central,POSSIBILITY TechAbout Central Review an early-stage concept and the approvals still required. Open →,internal,False,995
+113,a,href,/request-a-quote,https://techabout.com/request-a-quote,Describe your constraints →,internal,False,1014
+114,a,href,/our-assets,https://techabout.com/our-assets,Open evidence center,internal,False,1052
+115,a,href,/legal,https://techabout.com/legal,Legal & privacy,internal,False,1053
+116,a,href,/about-us/leadership,https://techabout.com/about-us/leadership,View leadership,internal,False,1061
+117,a,href,/about-us,https://techabout.com/about-us,About TechAbout,internal,False,1062
+118,a,href,/request-a-quote,https://techabout.com/request-a-quote,Start the detailed RFQ,internal,False,1075
+119,a,href,/contact-us,https://techabout.com/contact-us,Ask a short question,internal,False,1076
+120,iframe,src,,,,empty,True,1084
+121,a,href,/,https://techabout.com/,TA TechAbout®Digitizing Human Potential,internal,False,1122
+122,a,href,/assets/techabout_web/img/certs/cert-pseb.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-pseb.jpg,PSEB document,internal,False,1131
+123,a,href,/assets/techabout_web/img/certs/cert-secp.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-secp.jpg,SECP document,internal,False,1133
+124,a,href,/assets/techabout_web/img/certs/cert-pasha.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-pasha.jpg,P@SHA document,internal,False,1135
+125,a,href,/assets/techabout_web/img/certs/cert-fbr.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-fbr.jpg,FBR document,internal,False,1137
+126,a,href,/assets/techabout_web/img/certs/cert-lcci.jpg,https://techabout.com/assets/techabout_web/img/certs/cert-lcci.jpg,LCCI document,internal,False,1139
+127,a,href,https://linkedin.com/company/techabout/,https://linkedin.com/company/techabout/,,external,False,1147
+128,a,href,https://twitter.com/techabout/,https://twitter.com/techabout/,,external,False,1149
+129,a,href,https://github.com/techabout/,https://github.com/techabout/,,external,False,1151
+130,a,href,https://facebook.com/techabout/,https://facebook.com/techabout/,,external,False,1153
+131,a,href,https://instagram.com/techaboutofficial/,https://instagram.com/techaboutofficial/,,external,False,1155
+132,a,href,https://youtube.com/techabout/,https://youtube.com/techabout/,,external,False,1157
+133,a,href,https://jazibzaman.com/,https://jazibzaman.com/,TechAbout Company's CEO Personal Website JazibZaman.com,external,False,1160
+134,img,src,/assets/techabout_web/img/brand/jazibzaman-mark.png?v=1785627970,https://techabout.com/assets/techabout_web/img/brand/jazibzaman-mark.png?v=1785627970,,internal,False,1163
+135,a,href,/services/ai-ml-solutions,https://techabout.com/services/ai-ml-solutions,AI & Machine Learning,internal,False,1180
+136,a,href,/services/cloud-infrastructure,https://techabout.com/services/cloud-infrastructure,Cloud Infrastructure,internal,False,1185
+137,a,href,/services,https://techabout.com/services,Digital Transformation,internal,False,1190
+138,a,href,/services/enterprise-software,https://techabout.com/services/enterprise-software,Custom Software Development,internal,False,1195
+139,a,href,/services/application-development,https://techabout.com/services/application-development,Mobile & Web Applications,internal,False,1200
+140,a,href,/services/data-analytics,https://techabout.com/services/data-analytics,Data & Analytics,internal,False,1205
+141,a,href,/services/express,https://techabout.com/services/express,Express Services,internal,False,1210
+142,a,href,/link-building,https://techabout.com/link-building,Link Building & Guest Posts,internal,False,1215
+143,a,href,/domains,https://techabout.com/domains,Domain Network,internal,False,1220
+144,a,href,/contact-us,https://techabout.com/contact-us,Contact Us,internal,False,1232
+145,a,href,/about-us,https://techabout.com/about-us,About TechAbout,internal,False,1237
+146,a,href,/about-us/leadership,https://techabout.com/about-us/leadership,Leadership Team,internal,False,1242
+147,a,href,/our-assets,https://techabout.com/our-assets,Our Assets,internal,False,1247
+148,a,href,/roadmap,https://techabout.com/roadmap,Roadmap,internal,False,1252
+149,a,href,/careers,https://techabout.com/careers,Careers & Culture,internal,False,1257
+150,a,href,/docs/handbook,https://techabout.com/docs/handbook,HR Handbook,internal,False,1262
+151,a,href,/news,https://techabout.com/news,Newsroom,internal,False,1267
+152,a,href,/press,https://techabout.com/press,Press Mentions & Awards,internal,False,1272
+153,a,href,/partners,https://techabout.com/partners,Strategic Partners,internal,False,1277
+154,a,href,/payments,https://techabout.com/payments,Payment Methods,internal,False,1282
+155,a,href,/sitemap,https://techabout.com/sitemap,Sitemap,internal,False,1287
+156,a,href,/case-studies,https://techabout.com/case-studies,Case Studies Library,internal,False,1299
+157,a,href,/whitepapers,https://techabout.com/whitepapers,Whitepapers & Insights,internal,False,1304
+158,a,href,/docs,https://techabout.com/docs,Technical Documentation,internal,False,1309
+159,a,href,/api-docs,https://techabout.com/api-docs,API Reference,internal,False,1314
+160,a,href,/developers,https://techabout.com/developers,Developer Portal,internal,False,1319
+161,a,href,/support,https://techabout.com/support,Support Center,internal,False,1324
+162,a,href,/legal,https://techabout.com/legal,Legal Center,internal,False,1336
+163,a,href,/legal/privacy-policy,https://techabout.com/legal/privacy-policy,Privacy Policy,internal,False,1341
+164,a,href,/legal/terms-and-conditions,https://techabout.com/legal/terms-and-conditions,Terms & Conditions,internal,False,1346
+165,a,href,/legal/user-agreement,https://techabout.com/legal/user-agreement,User Agreement,internal,False,1351
+166,a,href,/legal/refund-policy,https://techabout.com/legal/refund-policy,Refund Policy,internal,False,1356
+167,a,href,/legal/gdpr,https://techabout.com/legal/gdpr,GDPR Compliance,internal,False,1361
+168,a,href,/legal/cookies,https://techabout.com/legal/cookies,Cookie Policy,internal,False,1366
+169,a,href,/legal/code-of-conduct,https://techabout.com/legal/code-of-conduct,Code of Conduct,internal,False,1371
+170,a,href,/legal/faqs,https://techabout.com/legal/faqs,FAQs,internal,False,1376
+171,a,href,https://maps.app.goo.gl/BW2RwjNuUBGnqxu56,https://maps.app.goo.gl/BW2RwjNuUBGnqxu56,,external,False,1396
+172,a,href,mailto:lahore@techabout.com,mailto:lahore@techabout.com,lahore@techabout.com,mailto,True,1397
+173,a,href,mailto:usa@techabout.com,mailto:usa@techabout.com,usa@techabout.com,mailto,True,1405
+174,a,href,mailto:dubai@techabout.com,mailto:dubai@techabout.com,dubai@techabout.com,mailto,True,1413
+175,a,href,mailto:central@techabout.com,mailto:central@techabout.com,central@techabout.com,mailto,True,1421
+176,a,href,https://search.google.com/local/reviews?placeid=ChIJ6x_WSHQGGTkRUA_Ur1lE0cE,https://search.google.com/local/reviews?placeid=ChIJ6x_WSHQGGTkRUA_Ur1lE0cE,4.7/5 Google Rating · 105 reviews,external,False,1435
+177,a,href,/legal,https://techabout.com/legal,Legal & privacy,internal,False,1437
+178,script,src,,,,empty,True,1506
+179,script,src,/assets/techabout_web/js/forms.js?v=1785633320,https://techabout.com/assets/techabout_web/js/forms.js?v=1785633320,,internal,False,1535
+180,script,src,/assets/techabout_web/js/cart.js?v=1785575545,https://techabout.com/assets/techabout_web/js/cart.js?v=1785575545,,internal,False,1536
+181,script,src,/assets/techabout_web/js/chat.js?v=1783331009,https://techabout.com/assets/techabout_web/js/chat.js?v=1783331009,,internal,False,1538
+182,script,src,,,,empty,True,1539
+183,script,src,,,,empty,True,1559
+184,script,src,,,,empty,True,1560
+185,a,href,/legal/privacy-policy,https://techabout.com/legal/privacy-policy,Privacy Policy,internal,False,1613
+186,script,src,,,,empty,True,1620

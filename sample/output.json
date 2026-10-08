@@ -1,0 +1,1865 @@
+{
+  "total": 186,
+  "links": [
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "https://www.techabout.com/",
+      "resolved_url": "https://www.techabout.com/",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 15
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "https://fonts.googleapis.com",
+      "resolved_url": "https://fonts.googleapis.com",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 59
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "https://fonts.gstatic.com",
+      "resolved_url": "https://fonts.gstatic.com",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 60
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap",
+      "resolved_url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 61
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "/assets/techabout_web/css/tailwind.css?v=1785497997",
+      "resolved_url": "https://techabout.com/assets/techabout_web/css/tailwind.css?v=1785497997",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 62
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/brand/favicon.ico?v=1783674648",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/brand/favicon.ico?v=1783674648",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 63
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/brand/favicon-16x16.png?v=1783674645",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/brand/favicon-16x16.png?v=1783674645",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 64
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/brand/favicon-32x32.png?v=1783674646",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/brand/favicon-32x32.png?v=1783674646",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 65
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/brand/apple-touch-icon.png?v=1783674649",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/brand/apple-touch-icon.png?v=1783674649",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 66
+    },
+    {
+      "tag": "link",
+      "attribute": "href",
+      "url": "/assets/techabout_web/site.webmanifest?v=1783674677",
+      "resolved_url": "https://techabout.com/assets/techabout_web/site.webmanifest?v=1783674677",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 67
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 70
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 78
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 79
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "/assets/techabout_web/js/header-account.js?v=1789628725",
+      "resolved_url": "https://techabout.com/assets/techabout_web/js/header-account.js?v=1789628725",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 80
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 81
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 90
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "#main-content",
+      "resolved_url": "#main-content",
+      "text": "Skip to main content",
+      "kind": "fragment",
+      "skipped": true,
+      "line": 136
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/",
+      "resolved_url": "https://techabout.com/",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 211
+    },
+    {
+      "tag": "source",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 213
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/brand/techabout-logo-header.png?v=1783471638",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/brand/techabout-logo-header.png?v=1783471638",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 214
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services",
+      "resolved_url": "https://techabout.com/services",
+      "text": "Services",
+      "kind": "internal",
+      "skipped": false,
+      "line": 231
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/ai-ml-solutions",
+      "resolved_url": "https://techabout.com/services/ai-ml-solutions",
+      "text": "AI & Machine Learning Most “AI strategy” ends in a slide deck. We ship models that run in production — and own the messy parts: your data, your edge cases, your 2am uptime.",
+      "kind": "internal",
+      "skipped": false,
+      "line": 241
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/enterprise-software",
+      "resolved_url": "https://techabout.com/services/enterprise-software",
+      "text": "Enterprise Software Development Enterprise software without the enterprise runaround. The custom systems your business runs on — shipped, documented, and supported long after launch.",
+      "kind": "internal",
+      "skipped": false,
+      "line": 249
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/cloud-infrastructure",
+      "resolved_url": "https://techabout.com/services/cloud-infrastructure",
+      "text": "Cloud Infrastructure & DevOps Cloud bills that make sense. Deploys that don't need a prayer. We build infrastructure your team can actually operate — then hand it over with the runbook.",
+      "kind": "internal",
+      "skipped": false,
+      "line": 257
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/application-development",
+      "resolved_url": "https://techabout.com/services/application-development",
+      "text": "Web & Mobile App Development Product teams move faster than agencies. We work like a product team you rent — web and mobile apps shipped in weeks, iterated on real usage, not a 200-page spec.",
+      "kind": "internal",
+      "skipped": false,
+      "line": 265
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/data-analytics",
+      "resolved_url": "https://techabout.com/services/data-analytics",
+      "text": "Data Engineering & Analytics Dashboards are the easy part. We build the pipelines underneath them — so the number your CEO sees is the same one your database actually holds.",
+      "kind": "internal",
+      "skipped": false,
+      "line": 273
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/cybersecurity",
+      "resolved_url": "https://techabout.com/services/cybersecurity",
+      "text": "Cybersecurity & Compliance Security that assumes you'll be attacked — because you will. Testing, hardening and compliance from a team that breaks things on purpose, before someone else does.",
+      "kind": "internal",
+      "skipped": false,
+      "line": 281
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/express/any-platform-website-migration",
+      "resolved_url": "https://techabout.com/services/express/any-platform-website-migration",
+      "text": "Any Platform to Any Platform Website Migration",
+      "kind": "internal",
+      "skipped": false,
+      "line": 300
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/express/complete-store-setup",
+      "resolved_url": "https://techabout.com/services/express/complete-store-setup",
+      "text": "Complete E-commerce Store Setup",
+      "kind": "internal",
+      "skipped": false,
+      "line": 305
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/express/content-creation-and-management",
+      "resolved_url": "https://techabout.com/services/express/content-creation-and-management",
+      "text": "Content Writing & Blog Management",
+      "kind": "internal",
+      "skipped": false,
+      "line": 310
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/express/wordpress-to-nextjs-migration",
+      "resolved_url": "https://techabout.com/services/express/wordpress-to-nextjs-migration",
+      "text": "Convert Your WordPress Site to Next.js",
+      "kind": "internal",
+      "skipped": false,
+      "line": 315
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/express/mobile-app-development",
+      "resolved_url": "https://techabout.com/services/express/mobile-app-development",
+      "text": "Cross-Platform Mobile App Development",
+      "kind": "internal",
+      "skipped": false,
+      "line": 320
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/express/custom-web-application",
+      "resolved_url": "https://techabout.com/services/express/custom-web-application",
+      "text": "Custom Web Application Development",
+      "kind": "internal",
+      "skipped": false,
+      "line": 325
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services",
+      "resolved_url": "https://techabout.com/services",
+      "text": "View all services",
+      "kind": "internal",
+      "skipped": false,
+      "line": 333
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio",
+      "resolved_url": "https://techabout.com/portfolio",
+      "text": "Work",
+      "kind": "internal",
+      "skipped": false,
+      "line": 342
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio",
+      "resolved_url": "https://techabout.com/portfolio",
+      "text": "Portfolio",
+      "kind": "internal",
+      "skipped": false,
+      "line": 348
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/case-studies",
+      "resolved_url": "https://techabout.com/case-studies",
+      "text": "Case Studies",
+      "kind": "internal",
+      "skipped": false,
+      "line": 350
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/our-assets",
+      "resolved_url": "https://techabout.com/our-assets",
+      "text": "Our Assets",
+      "kind": "internal",
+      "skipped": false,
+      "line": 352
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/our-assets",
+      "resolved_url": "https://techabout.com/our-assets",
+      "text": "Ventures",
+      "kind": "internal",
+      "skipped": false,
+      "line": 360
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/our-assets",
+      "resolved_url": "https://techabout.com/our-assets",
+      "text": "Products & Assets",
+      "kind": "internal",
+      "skipped": false,
+      "line": 366
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/central",
+      "resolved_url": "https://techabout.com/central",
+      "text": "TechAbout Central",
+      "kind": "internal",
+      "skipped": false,
+      "line": 368
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/future-leaders",
+      "resolved_url": "https://techabout.com/future-leaders",
+      "text": "Future Leaders",
+      "kind": "internal",
+      "skipped": false,
+      "line": 370
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/build-together",
+      "resolved_url": "https://techabout.com/build-together",
+      "text": "Build Together",
+      "kind": "internal",
+      "skipped": false,
+      "line": 372
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://techabout.org/",
+      "resolved_url": "https://techabout.org/",
+      "text": "TechAbout Foundation (opens in a new tab)",
+      "kind": "external",
+      "skipped": false,
+      "line": 374
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 375
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/about-us",
+      "resolved_url": "https://techabout.com/about-us",
+      "text": "Company",
+      "kind": "internal",
+      "skipped": false,
+      "line": 386
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/about-us",
+      "resolved_url": "https://techabout.com/about-us",
+      "text": "About TechAbout",
+      "kind": "internal",
+      "skipped": false,
+      "line": 392
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/about-us/leadership",
+      "resolved_url": "https://techabout.com/about-us/leadership",
+      "text": "Leadership",
+      "kind": "internal",
+      "skipped": false,
+      "line": 394
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/careers",
+      "resolved_url": "https://techabout.com/careers",
+      "text": "Careers",
+      "kind": "internal",
+      "skipped": false,
+      "line": 396
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/contact-us",
+      "resolved_url": "https://techabout.com/contact-us",
+      "text": "Contact",
+      "kind": "internal",
+      "skipped": false,
+      "line": 398
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/news",
+      "resolved_url": "https://techabout.com/news",
+      "text": "Insights",
+      "kind": "internal",
+      "skipped": false,
+      "line": 403
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/cart",
+      "resolved_url": "https://techabout.com/cart",
+      "text": "0",
+      "kind": "internal",
+      "skipped": false,
+      "line": 465
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/account",
+      "resolved_url": "https://techabout.com/account",
+      "text": "Account",
+      "kind": "internal",
+      "skipped": false,
+      "line": 470
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 476
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/request-a-quote",
+      "resolved_url": "https://techabout.com/request-a-quote",
+      "text": "Talk to an Expert",
+      "kind": "internal",
+      "skipped": false,
+      "line": 492
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services",
+      "resolved_url": "https://techabout.com/services",
+      "text": "Services",
+      "kind": "internal",
+      "skipped": false,
+      "line": 507
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/express",
+      "resolved_url": "https://techabout.com/services/express",
+      "text": "Express Services",
+      "kind": "internal",
+      "skipped": false,
+      "line": 509
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio",
+      "resolved_url": "https://techabout.com/portfolio",
+      "text": "Portfolio",
+      "kind": "internal",
+      "skipped": false,
+      "line": 511
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/our-assets",
+      "resolved_url": "https://techabout.com/our-assets",
+      "text": "Our Assets",
+      "kind": "internal",
+      "skipped": false,
+      "line": 513
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/news",
+      "resolved_url": "https://techabout.com/news",
+      "text": "News",
+      "kind": "internal",
+      "skipped": false,
+      "line": 515
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/build-together",
+      "resolved_url": "https://techabout.com/build-together",
+      "text": "Build Together",
+      "kind": "internal",
+      "skipped": false,
+      "line": 517
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/central",
+      "resolved_url": "https://techabout.com/central",
+      "text": "Central",
+      "kind": "internal",
+      "skipped": false,
+      "line": 519
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/future-leaders",
+      "resolved_url": "https://techabout.com/future-leaders",
+      "text": "Future Leaders",
+      "kind": "internal",
+      "skipped": false,
+      "line": 521
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://techabout.org/",
+      "resolved_url": "https://techabout.org/",
+      "text": "TechAbout Foundation (opens in a new tab)",
+      "kind": "external",
+      "skipped": false,
+      "line": 523
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 524
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/contact-us",
+      "resolved_url": "https://techabout.com/contact-us",
+      "text": "Contact Us",
+      "kind": "internal",
+      "skipped": false,
+      "line": 529
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/account",
+      "resolved_url": "https://techabout.com/account",
+      "text": "Account",
+      "kind": "internal",
+      "skipped": false,
+      "line": 530
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/request-a-quote",
+      "resolved_url": "https://techabout.com/request-a-quote",
+      "text": "Get a Quote",
+      "kind": "internal",
+      "skipped": false,
+      "line": 568
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/request-a-quote",
+      "resolved_url": "https://techabout.com/request-a-quote",
+      "text": "Plan a project",
+      "kind": "internal",
+      "skipped": false,
+      "line": 629
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio",
+      "resolved_url": "https://techabout.com/portfolio",
+      "text": "Review public work",
+      "kind": "internal",
+      "skipped": false,
+      "line": 633
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/news/techabout-building-video-cover.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/news/techabout-building-video-cover.jpg",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 662
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/central",
+      "resolved_url": "https://techabout.com/central",
+      "text": "Review TechAbout Central as a possibility, with its approval gates.",
+      "kind": "internal",
+      "skipped": false,
+      "line": 672
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-pseb.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-pseb.jpg",
+      "text": "PSEB document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 690
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-secp.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-secp.jpg",
+      "text": "SECP document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 695
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-pasha.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-pasha.jpg",
+      "text": "P@SHA document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 700
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-fbr.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-fbr.jpg",
+      "text": "FBR document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 705
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-lcci.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-lcci.jpg",
+      "text": "LCCI document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 710
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/press",
+      "resolved_url": "https://techabout.com/press",
+      "text": "Press & recognition 4 Presidential awards · 44 verified sources",
+      "kind": "internal",
+      "skipped": false,
+      "line": 718
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio",
+      "resolved_url": "https://techabout.com/portfolio",
+      "text": "View the complete portfolio →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 741
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "https://www.google.com/s2/favicons?domain=travel.pk&sz=128",
+      "resolved_url": "https://www.google.com/s2/favicons?domain=travel.pk&sz=128",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 750
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio/travel-pk",
+      "resolved_url": "https://techabout.com/portfolio/travel-pk",
+      "text": "View record",
+      "kind": "internal",
+      "skipped": false,
+      "line": 759
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://travel.pk",
+      "resolved_url": "https://travel.pk",
+      "text": "Website",
+      "kind": "external",
+      "skipped": false,
+      "line": 761
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/blogreach/techi-logo.png",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/blogreach/techi-logo.png",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 769
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio/techi.com",
+      "resolved_url": "https://techabout.com/portfolio/techi.com",
+      "text": "View record",
+      "kind": "internal",
+      "skipped": false,
+      "line": 778
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://www.techi.com",
+      "resolved_url": "https://www.techi.com",
+      "text": "Website",
+      "kind": "external",
+      "skipped": false,
+      "line": 780
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/blogreach/wparena-mark-current.png",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/blogreach/wparena-mark-current.png",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 788
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio/wparena.com",
+      "resolved_url": "https://techabout.com/portfolio/wparena.com",
+      "text": "View record",
+      "kind": "internal",
+      "skipped": false,
+      "line": 797
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://wparena.com",
+      "resolved_url": "https://wparena.com",
+      "text": "Website",
+      "kind": "external",
+      "skipped": false,
+      "line": 799
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/blogreach/techengage-logo.webp",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/blogreach/techengage-logo.webp",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 807
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio/techengage.com",
+      "resolved_url": "https://techabout.com/portfolio/techengage.com",
+      "text": "View record",
+      "kind": "internal",
+      "skipped": false,
+      "line": 816
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://techengage.com",
+      "resolved_url": "https://techengage.com",
+      "text": "Website",
+      "kind": "external",
+      "skipped": false,
+      "line": 818
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/products/healtharena-favicon.png",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/products/healtharena-favicon.png",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 826
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio/healtharena.com",
+      "resolved_url": "https://techabout.com/portfolio/healtharena.com",
+      "text": "View record",
+      "kind": "internal",
+      "skipped": false,
+      "line": 835
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://healtharena.com",
+      "resolved_url": "https://healtharena.com",
+      "text": "Website",
+      "kind": "external",
+      "skipped": false,
+      "line": 837
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/blogreach/default-glob.png",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/blogreach/default-glob.png",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 845
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio/accountstop.com",
+      "resolved_url": "https://techabout.com/portfolio/accountstop.com",
+      "text": "View record",
+      "kind": "internal",
+      "skipped": false,
+      "line": 854
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://accountstop.com",
+      "resolved_url": "https://accountstop.com",
+      "text": "Website",
+      "kind": "external",
+      "skipped": false,
+      "line": 856
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/products/aitransform-favicon.png",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/products/aitransform-favicon.png",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 864
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio/aitransform.com",
+      "resolved_url": "https://techabout.com/portfolio/aitransform.com",
+      "text": "View record",
+      "kind": "internal",
+      "skipped": false,
+      "line": 873
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://aitransform.com",
+      "resolved_url": "https://aitransform.com",
+      "text": "Website",
+      "kind": "external",
+      "skipped": false,
+      "line": 875
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/blogreach/default-glob.png",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/blogreach/default-glob.png",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 883
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/portfolio/pkhosting.com",
+      "resolved_url": "https://techabout.com/portfolio/pkhosting.com",
+      "text": "View record",
+      "kind": "internal",
+      "skipped": false,
+      "line": 892
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://www.pkhosting.com",
+      "resolved_url": "https://www.pkhosting.com",
+      "text": "Website",
+      "kind": "external",
+      "skipped": false,
+      "line": 894
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/ai-ml-solutions",
+      "resolved_url": "https://techabout.com/services/ai-ml-solutions",
+      "text": "Explore possibilities →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 919
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/enterprise-software",
+      "resolved_url": "https://techabout.com/services/enterprise-software",
+      "text": "Explore possibilities →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 928
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/cloud-infrastructure",
+      "resolved_url": "https://techabout.com/services/cloud-infrastructure",
+      "text": "Explore possibilities →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 937
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/application-development",
+      "resolved_url": "https://techabout.com/services/application-development",
+      "text": "Explore possibilities →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 946
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/data-analytics",
+      "resolved_url": "https://techabout.com/services/data-analytics",
+      "text": "Explore possibilities →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 955
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/cybersecurity",
+      "resolved_url": "https://techabout.com/services/cybersecurity",
+      "text": "Explore possibilities →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 964
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/our-assets",
+      "resolved_url": "https://techabout.com/our-assets",
+      "text": "CURRENT RECORDS Assets & verification Our domain portfolio, trademarks and company registration documents — open to verify. Open →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 981
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/build-together",
+      "resolved_url": "https://techabout.com/build-together",
+      "text": "POSSIBILITY Build Together Explore a collaboration without public ROI, fee, or outcome promises. Open →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 988
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/central",
+      "resolved_url": "https://techabout.com/central",
+      "text": "POSSIBILITY TechAbout Central Review an early-stage concept and the approvals still required. Open →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 995
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/request-a-quote",
+      "resolved_url": "https://techabout.com/request-a-quote",
+      "text": "Describe your constraints →",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1014
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/our-assets",
+      "resolved_url": "https://techabout.com/our-assets",
+      "text": "Open evidence center",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1052
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal",
+      "resolved_url": "https://techabout.com/legal",
+      "text": "Legal & privacy",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1053
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/about-us/leadership",
+      "resolved_url": "https://techabout.com/about-us/leadership",
+      "text": "View leadership",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1061
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/about-us",
+      "resolved_url": "https://techabout.com/about-us",
+      "text": "About TechAbout",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1062
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/request-a-quote",
+      "resolved_url": "https://techabout.com/request-a-quote",
+      "text": "Start the detailed RFQ",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1075
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/contact-us",
+      "resolved_url": "https://techabout.com/contact-us",
+      "text": "Ask a short question",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1076
+    },
+    {
+      "tag": "iframe",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 1084
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/",
+      "resolved_url": "https://techabout.com/",
+      "text": "TA TechAbout®Digitizing Human Potential",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1122
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-pseb.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-pseb.jpg",
+      "text": "PSEB document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1131
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-secp.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-secp.jpg",
+      "text": "SECP document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1133
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-pasha.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-pasha.jpg",
+      "text": "P@SHA document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1135
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-fbr.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-fbr.jpg",
+      "text": "FBR document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1137
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/assets/techabout_web/img/certs/cert-lcci.jpg",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/certs/cert-lcci.jpg",
+      "text": "LCCI document",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1139
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://linkedin.com/company/techabout/",
+      "resolved_url": "https://linkedin.com/company/techabout/",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 1147
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://twitter.com/techabout/",
+      "resolved_url": "https://twitter.com/techabout/",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 1149
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://github.com/techabout/",
+      "resolved_url": "https://github.com/techabout/",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 1151
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://facebook.com/techabout/",
+      "resolved_url": "https://facebook.com/techabout/",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 1153
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://instagram.com/techaboutofficial/",
+      "resolved_url": "https://instagram.com/techaboutofficial/",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 1155
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://youtube.com/techabout/",
+      "resolved_url": "https://youtube.com/techabout/",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 1157
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://jazibzaman.com/",
+      "resolved_url": "https://jazibzaman.com/",
+      "text": "TechAbout Company's CEO Personal Website JazibZaman.com",
+      "kind": "external",
+      "skipped": false,
+      "line": 1160
+    },
+    {
+      "tag": "img",
+      "attribute": "src",
+      "url": "/assets/techabout_web/img/brand/jazibzaman-mark.png?v=1785627970",
+      "resolved_url": "https://techabout.com/assets/techabout_web/img/brand/jazibzaman-mark.png?v=1785627970",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1163
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/ai-ml-solutions",
+      "resolved_url": "https://techabout.com/services/ai-ml-solutions",
+      "text": "AI & Machine Learning",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1180
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/cloud-infrastructure",
+      "resolved_url": "https://techabout.com/services/cloud-infrastructure",
+      "text": "Cloud Infrastructure",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1185
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services",
+      "resolved_url": "https://techabout.com/services",
+      "text": "Digital Transformation",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1190
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/enterprise-software",
+      "resolved_url": "https://techabout.com/services/enterprise-software",
+      "text": "Custom Software Development",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1195
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/application-development",
+      "resolved_url": "https://techabout.com/services/application-development",
+      "text": "Mobile & Web Applications",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1200
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/data-analytics",
+      "resolved_url": "https://techabout.com/services/data-analytics",
+      "text": "Data & Analytics",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1205
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/services/express",
+      "resolved_url": "https://techabout.com/services/express",
+      "text": "Express Services",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1210
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/link-building",
+      "resolved_url": "https://techabout.com/link-building",
+      "text": "Link Building & Guest Posts",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1215
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/domains",
+      "resolved_url": "https://techabout.com/domains",
+      "text": "Domain Network",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1220
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/contact-us",
+      "resolved_url": "https://techabout.com/contact-us",
+      "text": "Contact Us",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1232
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/about-us",
+      "resolved_url": "https://techabout.com/about-us",
+      "text": "About TechAbout",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1237
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/about-us/leadership",
+      "resolved_url": "https://techabout.com/about-us/leadership",
+      "text": "Leadership Team",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1242
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/our-assets",
+      "resolved_url": "https://techabout.com/our-assets",
+      "text": "Our Assets",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1247
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/roadmap",
+      "resolved_url": "https://techabout.com/roadmap",
+      "text": "Roadmap",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1252
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/careers",
+      "resolved_url": "https://techabout.com/careers",
+      "text": "Careers & Culture",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1257
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/docs/handbook",
+      "resolved_url": "https://techabout.com/docs/handbook",
+      "text": "HR Handbook",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1262
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/news",
+      "resolved_url": "https://techabout.com/news",
+      "text": "Newsroom",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1267
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/press",
+      "resolved_url": "https://techabout.com/press",
+      "text": "Press Mentions & Awards",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1272
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/partners",
+      "resolved_url": "https://techabout.com/partners",
+      "text": "Strategic Partners",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1277
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/payments",
+      "resolved_url": "https://techabout.com/payments",
+      "text": "Payment Methods",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1282
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/sitemap",
+      "resolved_url": "https://techabout.com/sitemap",
+      "text": "Sitemap",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1287
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/case-studies",
+      "resolved_url": "https://techabout.com/case-studies",
+      "text": "Case Studies Library",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1299
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/whitepapers",
+      "resolved_url": "https://techabout.com/whitepapers",
+      "text": "Whitepapers & Insights",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1304
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/docs",
+      "resolved_url": "https://techabout.com/docs",
+      "text": "Technical Documentation",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1309
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/api-docs",
+      "resolved_url": "https://techabout.com/api-docs",
+      "text": "API Reference",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1314
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/developers",
+      "resolved_url": "https://techabout.com/developers",
+      "text": "Developer Portal",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1319
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/support",
+      "resolved_url": "https://techabout.com/support",
+      "text": "Support Center",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1324
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal",
+      "resolved_url": "https://techabout.com/legal",
+      "text": "Legal Center",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1336
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/privacy-policy",
+      "resolved_url": "https://techabout.com/legal/privacy-policy",
+      "text": "Privacy Policy",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1341
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/terms-and-conditions",
+      "resolved_url": "https://techabout.com/legal/terms-and-conditions",
+      "text": "Terms & Conditions",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1346
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/user-agreement",
+      "resolved_url": "https://techabout.com/legal/user-agreement",
+      "text": "User Agreement",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1351
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/refund-policy",
+      "resolved_url": "https://techabout.com/legal/refund-policy",
+      "text": "Refund Policy",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1356
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/gdpr",
+      "resolved_url": "https://techabout.com/legal/gdpr",
+      "text": "GDPR Compliance",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1361
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/cookies",
+      "resolved_url": "https://techabout.com/legal/cookies",
+      "text": "Cookie Policy",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1366
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/code-of-conduct",
+      "resolved_url": "https://techabout.com/legal/code-of-conduct",
+      "text": "Code of Conduct",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1371
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/faqs",
+      "resolved_url": "https://techabout.com/legal/faqs",
+      "text": "FAQs",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1376
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://maps.app.goo.gl/BW2RwjNuUBGnqxu56",
+      "resolved_url": "https://maps.app.goo.gl/BW2RwjNuUBGnqxu56",
+      "text": "",
+      "kind": "external",
+      "skipped": false,
+      "line": 1396
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "mailto:lahore@techabout.com",
+      "resolved_url": "mailto:lahore@techabout.com",
+      "text": "lahore@techabout.com",
+      "kind": "mailto",
+      "skipped": true,
+      "line": 1397
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "mailto:usa@techabout.com",
+      "resolved_url": "mailto:usa@techabout.com",
+      "text": "usa@techabout.com",
+      "kind": "mailto",
+      "skipped": true,
+      "line": 1405
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "mailto:dubai@techabout.com",
+      "resolved_url": "mailto:dubai@techabout.com",
+      "text": "dubai@techabout.com",
+      "kind": "mailto",
+      "skipped": true,
+      "line": 1413
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "mailto:central@techabout.com",
+      "resolved_url": "mailto:central@techabout.com",
+      "text": "central@techabout.com",
+      "kind": "mailto",
+      "skipped": true,
+      "line": 1421
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "https://search.google.com/local/reviews?placeid=ChIJ6x_WSHQGGTkRUA_Ur1lE0cE",
+      "resolved_url": "https://search.google.com/local/reviews?placeid=ChIJ6x_WSHQGGTkRUA_Ur1lE0cE",
+      "text": "4.7/5 Google Rating · 105 reviews",
+      "kind": "external",
+      "skipped": false,
+      "line": 1435
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal",
+      "resolved_url": "https://techabout.com/legal",
+      "text": "Legal & privacy",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1437
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 1506
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "/assets/techabout_web/js/forms.js?v=1785633320",
+      "resolved_url": "https://techabout.com/assets/techabout_web/js/forms.js?v=1785633320",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1535
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "/assets/techabout_web/js/cart.js?v=1785575545",
+      "resolved_url": "https://techabout.com/assets/techabout_web/js/cart.js?v=1785575545",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1536
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "/assets/techabout_web/js/chat.js?v=1783331009",
+      "resolved_url": "https://techabout.com/assets/techabout_web/js/chat.js?v=1783331009",
+      "text": "",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1538
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 1539
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 1559
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 1560
+    },
+    {
+      "tag": "a",
+      "attribute": "href",
+      "url": "/legal/privacy-policy",
+      "resolved_url": "https://techabout.com/legal/privacy-policy",
+      "text": "Privacy Policy",
+      "kind": "internal",
+      "skipped": false,
+      "line": 1613
+    },
+    {
+      "tag": "script",
+      "attribute": "src",
+      "url": "",
+      "resolved_url": "",
+      "text": "",
+      "kind": "empty",
+      "skipped": true,
+      "line": 1620
+    }
+  ]
+}

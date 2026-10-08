@@ -1,0 +1,188 @@
+[1] <link href> EXTERNAL -> https://www.techabout.com/
+[2] <link href> EXTERNAL -> https://fonts.googleapis.com
+[3] <link href> EXTERNAL -> https://fonts.gstatic.com
+[4] <link href> EXTERNAL -> https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap
+[5] <link href> INTERNAL -> https://techabout.com/assets/techabout_web/css/tailwind.css?v=1785497997
+[6] <link href> INTERNAL -> https://techabout.com/assets/techabout_web/img/brand/favicon.ico?v=1783674648
+[7] <link href> INTERNAL -> https://techabout.com/assets/techabout_web/img/brand/favicon-16x16.png?v=1783674645
+[8] <link href> INTERNAL -> https://techabout.com/assets/techabout_web/img/brand/favicon-32x32.png?v=1783674646
+[9] <link href> INTERNAL -> https://techabout.com/assets/techabout_web/img/brand/apple-touch-icon.png?v=1783674649
+[10] <link href> INTERNAL -> https://techabout.com/assets/techabout_web/site.webmanifest?v=1783674677
+[11] <script src> SKIPPED (empty) -> 
+[12] <script src> SKIPPED (empty) -> 
+[13] <script src> SKIPPED (empty) -> 
+[14] <script src> INTERNAL -> https://techabout.com/assets/techabout_web/js/header-account.js?v=1789628725
+[15] <script src> SKIPPED (empty) -> 
+[16] <script src> SKIPPED (empty) -> 
+[17] <a href> SKIPPED (fragment) "Skip to main content" -> #main-content
+[18] <a href> INTERNAL -> https://techabout.com/
+[19] <source src> SKIPPED (empty) -> 
+[20] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/brand/techabout-logo-header.png?v=1783471638
+[21] <a href> INTERNAL "Services" -> https://techabout.com/services
+[22] <a href> INTERNAL "AI & Machine Learning Most “AI strategy” ends in a slide deck. We ship models that run in production — and own the messy parts: your data, your edge cases, your 2am uptime." -> https://techabout.com/services/ai-ml-solutions
+[23] <a href> INTERNAL "Enterprise Software Development Enterprise software without the enterprise runaround. The custom systems your business runs on — shipped, documented, and supported long after launch." -> https://techabout.com/services/enterprise-software
+[24] <a href> INTERNAL "Cloud Infrastructure & DevOps Cloud bills that make sense. Deploys that don't need a prayer. We build infrastructure your team can actually operate — then hand it over with the runbook." -> https://techabout.com/services/cloud-infrastructure
+[25] <a href> INTERNAL "Web & Mobile App Development Product teams move faster than agencies. We work like a product team you rent — web and mobile apps shipped in weeks, iterated on real usage, not a 200-page spec." -> https://techabout.com/services/application-development
+[26] <a href> INTERNAL "Data Engineering & Analytics Dashboards are the easy part. We build the pipelines underneath them — so the number your CEO sees is the same one your database actually holds." -> https://techabout.com/services/data-analytics
+[27] <a href> INTERNAL "Cybersecurity & Compliance Security that assumes you'll be attacked — because you will. Testing, hardening and compliance from a team that breaks things on purpose, before someone else does." -> https://techabout.com/services/cybersecurity
+[28] <a href> INTERNAL "Any Platform to Any Platform Website Migration" -> https://techabout.com/services/express/any-platform-website-migration
+[29] <a href> INTERNAL "Complete E-commerce Store Setup" -> https://techabout.com/services/express/complete-store-setup
+[30] <a href> INTERNAL "Content Writing & Blog Management" -> https://techabout.com/services/express/content-creation-and-management
+[31] <a href> INTERNAL "Convert Your WordPress Site to Next.js" -> https://techabout.com/services/express/wordpress-to-nextjs-migration
+[32] <a href> INTERNAL "Cross-Platform Mobile App Development" -> https://techabout.com/services/express/mobile-app-development
+[33] <a href> INTERNAL "Custom Web Application Development" -> https://techabout.com/services/express/custom-web-application
+[34] <a href> INTERNAL "View all services" -> https://techabout.com/services
+[35] <a href> INTERNAL "Work" -> https://techabout.com/portfolio
+[36] <a href> INTERNAL "Portfolio" -> https://techabout.com/portfolio
+[37] <a href> INTERNAL "Case Studies" -> https://techabout.com/case-studies
+[38] <a href> INTERNAL "Our Assets" -> https://techabout.com/our-assets
+[39] <a href> INTERNAL "Ventures" -> https://techabout.com/our-assets
+[40] <a href> INTERNAL "Products & Assets" -> https://techabout.com/our-assets
+[41] <a href> INTERNAL "TechAbout Central" -> https://techabout.com/central
+[42] <a href> INTERNAL "Future Leaders" -> https://techabout.com/future-leaders
+[43] <a href> INTERNAL "Build Together" -> https://techabout.com/build-together
+[44] <a href> EXTERNAL "TechAbout Foundation (opens in a new tab)" -> https://techabout.org/
+[45] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426
+[46] <a href> INTERNAL "Company" -> https://techabout.com/about-us
+[47] <a href> INTERNAL "About TechAbout" -> https://techabout.com/about-us
+[48] <a href> INTERNAL "Leadership" -> https://techabout.com/about-us/leadership
+[49] <a href> INTERNAL "Careers" -> https://techabout.com/careers
+[50] <a href> INTERNAL "Contact" -> https://techabout.com/contact-us
+[51] <a href> INTERNAL "Insights" -> https://techabout.com/news
+[52] <a href> INTERNAL "0" -> https://techabout.com/cart
+[53] <a href> INTERNAL "Account" -> https://techabout.com/account
+[54] <img src> SKIPPED (empty) -> 
+[55] <a href> INTERNAL "Talk to an Expert" -> https://techabout.com/request-a-quote
+[56] <a href> INTERNAL "Services" -> https://techabout.com/services
+[57] <a href> INTERNAL "Express Services" -> https://techabout.com/services/express
+[58] <a href> INTERNAL "Portfolio" -> https://techabout.com/portfolio
+[59] <a href> INTERNAL "Our Assets" -> https://techabout.com/our-assets
+[60] <a href> INTERNAL "News" -> https://techabout.com/news
+[61] <a href> INTERNAL "Build Together" -> https://techabout.com/build-together
+[62] <a href> INTERNAL "Central" -> https://techabout.com/central
+[63] <a href> INTERNAL "Future Leaders" -> https://techabout.com/future-leaders
+[64] <a href> EXTERNAL "TechAbout Foundation (opens in a new tab)" -> https://techabout.org/
+[65] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/brand/techabout-foundation-mark.svg?v=1785635426
+[66] <a href> INTERNAL "Contact Us" -> https://techabout.com/contact-us
+[67] <a href> INTERNAL "Account" -> https://techabout.com/account
+[68] <a href> INTERNAL "Get a Quote" -> https://techabout.com/request-a-quote
+[69] <a href> INTERNAL "Plan a project" -> https://techabout.com/request-a-quote
+[70] <a href> INTERNAL "Review public work" -> https://techabout.com/portfolio
+[71] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/news/techabout-building-video-cover.jpg
+[72] <a href> INTERNAL "Review TechAbout Central as a possibility, with its approval gates." -> https://techabout.com/central
+[73] <a href> INTERNAL "PSEB document" -> https://techabout.com/assets/techabout_web/img/certs/cert-pseb.jpg
+[74] <a href> INTERNAL "SECP document" -> https://techabout.com/assets/techabout_web/img/certs/cert-secp.jpg
+[75] <a href> INTERNAL "P@SHA document" -> https://techabout.com/assets/techabout_web/img/certs/cert-pasha.jpg
+[76] <a href> INTERNAL "FBR document" -> https://techabout.com/assets/techabout_web/img/certs/cert-fbr.jpg
+[77] <a href> INTERNAL "LCCI document" -> https://techabout.com/assets/techabout_web/img/certs/cert-lcci.jpg
+[78] <a href> INTERNAL "Press & recognition 4 Presidential awards · 44 verified sources" -> https://techabout.com/press
+[79] <a href> INTERNAL "View the complete portfolio →" -> https://techabout.com/portfolio
+[80] <img src> EXTERNAL -> https://www.google.com/s2/favicons?domain=travel.pk&sz=128
+[81] <a href> INTERNAL "View record" -> https://techabout.com/portfolio/travel-pk
+[82] <a href> EXTERNAL "Website" -> https://travel.pk
+[83] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/blogreach/techi-logo.png
+[84] <a href> INTERNAL "View record" -> https://techabout.com/portfolio/techi.com
+[85] <a href> EXTERNAL "Website" -> https://www.techi.com
+[86] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/blogreach/wparena-mark-current.png
+[87] <a href> INTERNAL "View record" -> https://techabout.com/portfolio/wparena.com
+[88] <a href> EXTERNAL "Website" -> https://wparena.com
+[89] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/blogreach/techengage-logo.webp
+[90] <a href> INTERNAL "View record" -> https://techabout.com/portfolio/techengage.com
+[91] <a href> EXTERNAL "Website" -> https://techengage.com
+[92] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/products/healtharena-favicon.png
+[93] <a href> INTERNAL "View record" -> https://techabout.com/portfolio/healtharena.com
+[94] <a href> EXTERNAL "Website" -> https://healtharena.com
+[95] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/blogreach/default-glob.png
+[96] <a href> INTERNAL "View record" -> https://techabout.com/portfolio/accountstop.com
+[97] <a href> EXTERNAL "Website" -> https://accountstop.com
+[98] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/products/aitransform-favicon.png
+[99] <a href> INTERNAL "View record" -> https://techabout.com/portfolio/aitransform.com
+[100] <a href> EXTERNAL "Website" -> https://aitransform.com
+[101] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/blogreach/default-glob.png
+[102] <a href> INTERNAL "View record" -> https://techabout.com/portfolio/pkhosting.com
+[103] <a href> EXTERNAL "Website" -> https://www.pkhosting.com
+[104] <a href> INTERNAL "Explore possibilities →" -> https://techabout.com/services/ai-ml-solutions
+[105] <a href> INTERNAL "Explore possibilities →" -> https://techabout.com/services/enterprise-software
+[106] <a href> INTERNAL "Explore possibilities →" -> https://techabout.com/services/cloud-infrastructure
+[107] <a href> INTERNAL "Explore possibilities →" -> https://techabout.com/services/application-development
+[108] <a href> INTERNAL "Explore possibilities →" -> https://techabout.com/services/data-analytics
+[109] <a href> INTERNAL "Explore possibilities →" -> https://techabout.com/services/cybersecurity
+[110] <a href> INTERNAL "CURRENT RECORDS Assets & verification Our domain portfolio, trademarks and company registration documents — open to verify. Open →" -> https://techabout.com/our-assets
+[111] <a href> INTERNAL "POSSIBILITY Build Together Explore a collaboration without public ROI, fee, or outcome promises. Open →" -> https://techabout.com/build-together
+[112] <a href> INTERNAL "POSSIBILITY TechAbout Central Review an early-stage concept and the approvals still required. Open →" -> https://techabout.com/central
+[113] <a href> INTERNAL "Describe your constraints →" -> https://techabout.com/request-a-quote
+[114] <a href> INTERNAL "Open evidence center" -> https://techabout.com/our-assets
+[115] <a href> INTERNAL "Legal & privacy" -> https://techabout.com/legal
+[116] <a href> INTERNAL "View leadership" -> https://techabout.com/about-us/leadership
+[117] <a href> INTERNAL "About TechAbout" -> https://techabout.com/about-us
+[118] <a href> INTERNAL "Start the detailed RFQ" -> https://techabout.com/request-a-quote
+[119] <a href> INTERNAL "Ask a short question" -> https://techabout.com/contact-us
+[120] <iframe src> SKIPPED (empty) -> 
+[121] <a href> INTERNAL "TA TechAbout®Digitizing Human Potential" -> https://techabout.com/
+[122] <a href> INTERNAL "PSEB document" -> https://techabout.com/assets/techabout_web/img/certs/cert-pseb.jpg
+[123] <a href> INTERNAL "SECP document" -> https://techabout.com/assets/techabout_web/img/certs/cert-secp.jpg
+[124] <a href> INTERNAL "P@SHA document" -> https://techabout.com/assets/techabout_web/img/certs/cert-pasha.jpg
+[125] <a href> INTERNAL "FBR document" -> https://techabout.com/assets/techabout_web/img/certs/cert-fbr.jpg
+[126] <a href> INTERNAL "LCCI document" -> https://techabout.com/assets/techabout_web/img/certs/cert-lcci.jpg
+[127] <a href> EXTERNAL -> https://linkedin.com/company/techabout/
+[128] <a href> EXTERNAL -> https://twitter.com/techabout/
+[129] <a href> EXTERNAL -> https://github.com/techabout/
+[130] <a href> EXTERNAL -> https://facebook.com/techabout/
+[131] <a href> EXTERNAL -> https://instagram.com/techaboutofficial/
+[132] <a href> EXTERNAL -> https://youtube.com/techabout/
+[133] <a href> EXTERNAL "TechAbout Company's CEO Personal Website JazibZaman.com" -> https://jazibzaman.com/
+[134] <img src> INTERNAL -> https://techabout.com/assets/techabout_web/img/brand/jazibzaman-mark.png?v=1785627970
+[135] <a href> INTERNAL "AI & Machine Learning" -> https://techabout.com/services/ai-ml-solutions
+[136] <a href> INTERNAL "Cloud Infrastructure" -> https://techabout.com/services/cloud-infrastructure
+[137] <a href> INTERNAL "Digital Transformation" -> https://techabout.com/services
+[138] <a href> INTERNAL "Custom Software Development" -> https://techabout.com/services/enterprise-software
+[139] <a href> INTERNAL "Mobile & Web Applications" -> https://techabout.com/services/application-development
+[140] <a href> INTERNAL "Data & Analytics" -> https://techabout.com/services/data-analytics
+[141] <a href> INTERNAL "Express Services" -> https://techabout.com/services/express
+[142] <a href> INTERNAL "Link Building & Guest Posts" -> https://techabout.com/link-building
+[143] <a href> INTERNAL "Domain Network" -> https://techabout.com/domains
+[144] <a href> INTERNAL "Contact Us" -> https://techabout.com/contact-us
+[145] <a href> INTERNAL "About TechAbout" -> https://techabout.com/about-us
+[146] <a href> INTERNAL "Leadership Team" -> https://techabout.com/about-us/leadership
+[147] <a href> INTERNAL "Our Assets" -> https://techabout.com/our-assets
+[148] <a href> INTERNAL "Roadmap" -> https://techabout.com/roadmap
+[149] <a href> INTERNAL "Careers & Culture" -> https://techabout.com/careers
+[150] <a href> INTERNAL "HR Handbook" -> https://techabout.com/docs/handbook
+[151] <a href> INTERNAL "Newsroom" -> https://techabout.com/news
+[152] <a href> INTERNAL "Press Mentions & Awards" -> https://techabout.com/press
+[153] <a href> INTERNAL "Strategic Partners" -> https://techabout.com/partners
+[154] <a href> INTERNAL "Payment Methods" -> https://techabout.com/payments
+[155] <a href> INTERNAL "Sitemap" -> https://techabout.com/sitemap
+[156] <a href> INTERNAL "Case Studies Library" -> https://techabout.com/case-studies
+[157] <a href> INTERNAL "Whitepapers & Insights" -> https://techabout.com/whitepapers
+[158] <a href> INTERNAL "Technical Documentation" -> https://techabout.com/docs
+[159] <a href> INTERNAL "API Reference" -> https://techabout.com/api-docs
+[160] <a href> INTERNAL "Developer Portal" -> https://techabout.com/developers
+[161] <a href> INTERNAL "Support Center" -> https://techabout.com/support
+[162] <a href> INTERNAL "Legal Center" -> https://techabout.com/legal
+[163] <a href> INTERNAL "Privacy Policy" -> https://techabout.com/legal/privacy-policy
+[164] <a href> INTERNAL "Terms & Conditions" -> https://techabout.com/legal/terms-and-conditions
+[165] <a href> INTERNAL "User Agreement" -> https://techabout.com/legal/user-agreement
+[166] <a href> INTERNAL "Refund Policy" -> https://techabout.com/legal/refund-policy
+[167] <a href> INTERNAL "GDPR Compliance" -> https://techabout.com/legal/gdpr
+[168] <a href> INTERNAL "Cookie Policy" -> https://techabout.com/legal/cookies
+[169] <a href> INTERNAL "Code of Conduct" -> https://techabout.com/legal/code-of-conduct
+[170] <a href> INTERNAL "FAQs" -> https://techabout.com/legal/faqs
+[171] <a href> EXTERNAL -> https://maps.app.goo.gl/BW2RwjNuUBGnqxu56
+[172] <a href> SKIPPED (mailto) "lahore@techabout.com" -> mailto:lahore@techabout.com
+[173] <a href> SKIPPED (mailto) "usa@techabout.com" -> mailto:usa@techabout.com
+[174] <a href> SKIPPED (mailto) "dubai@techabout.com" -> mailto:dubai@techabout.com
+[175] <a href> SKIPPED (mailto) "central@techabout.com" -> mailto:central@techabout.com
+[176] <a href> EXTERNAL "4.7/5 Google Rating · 105 reviews" -> https://search.google.com/local/reviews?placeid=ChIJ6x_WSHQGGTkRUA_Ur1lE0cE
+[177] <a href> INTERNAL "Legal & privacy" -> https://techabout.com/legal
+[178] <script src> SKIPPED (empty) -> 
+[179] <script src> INTERNAL -> https://techabout.com/assets/techabout_web/js/forms.js?v=1785633320
+[180] <script src> INTERNAL -> https://techabout.com/assets/techabout_web/js/cart.js?v=1785575545
+[181] <script src> INTERNAL -> https://techabout.com/assets/techabout_web/js/chat.js?v=1783331009
+[182] <script src> SKIPPED (empty) -> 
+[183] <script src> SKIPPED (empty) -> 
+[184] <script src> SKIPPED (empty) -> 
+[185] <a href> INTERNAL "Privacy Policy" -> https://techabout.com/legal/privacy-policy
+[186] <script src> SKIPPED (empty) -> 
+
+Total: 186 links (168 kept, 18 skipped)
